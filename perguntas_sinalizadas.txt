@@ -1,0 +1,60 @@
+Redundantes
+
+24. Eu sinto prazer em realizar meu trabalho.
+50. Eu me sinto satisfeito(a) com meu atual cargo/função.
+70. Eu me sinto bem no meu trabalho.
+
+
+66. Eu prefiro trabalhar com tarefas bem definidas.
+67. Eu prefiro um ambiente de trabalho com regras claras.
+68. Eu gosto de processos de trabalho bem estabelecidos.
+
+
+
+41. Eu tenho facilidade para pensar em soluções para problemas relacionados à minha rotina de trabalho.
+47. Eu me sinto capaz de resolver problemas técnicos no meu trabalho.
+
+
+
+
+Reversas 
+
+
+35. Eu prefiro ter liberdade para desenvolver minhas soluções do que seguir um passo a passo definido por alguém.
+36. Eu prefiro/preferiria trabalhar sendo acompanhado(a) por um(a) supervisor(a).
+
+
+37. Eu prefiro trabalhar em um ambiente menos rígido, com menos regras e controle sobre a atuação dos profissionais.
+66. Eu prefiro trabalhar com tarefas bem definidas.
+67. Eu prefiro um ambiente de trabalho com regras claras.
+68. Eu gosto de processos de trabalho bem estabelecidos.
+
+
+57. Eu considero excessiva a minha carga de trabalho.
+58. Eu conseguiria manter meu nível de produtividade atual mesmo se recebesse uma carga de trabalho maior do que tenho hoje.
+
+
+29. Eu tenho relação de amizade com colegas de trabalho.
+39. Eu tenho interesse em ensinar colegas de trabalho com menos experiência.
+45. Eu ofereço ajuda a meus colegas de trabalho.
+61. Eu não gosto de realizar tarefas de trabalho que envolvam interagir com outras pessoas.
+
+Perguntas Problemáticas
+
+59. Meus chefes ou clientes *costumam* ter expectativas exageradas em relação ao meu trabalho.
+69. Eu *acho* descontraído o meu trabalho.
+
+
+Perguntas com Poucas Respostas
+3. Em qual unidade da federação você mais viveu até os 20 anos de idade? Se preferir, informe qual teve mais influência na sua forma de pensar e de agir. 
+(251 respostas)
+11. Você entrou na área de TI vindo(a) de outra área de formação ou atuação profissional?
+(545 respostas)
+12. Atualmente, estou trabalhando no seguinte cargo/função de TI:
+(92 respostas)
+72. Atuando na área de TI, quantas vezes você mudou de organização/empresa (empregador) nos últimos cinco anos?
+(955  respostas)
+73. Caso você tenha mudado de empregador nos últimos cinco anos (uma ou mais vezes), qual o principal motivo da(s) mudança(s)? Caso haja mais de um motivo igualmente importante, pode marcar mais de um.
+(566 respostas)
+
+
