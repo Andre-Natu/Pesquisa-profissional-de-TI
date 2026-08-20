@@ -1,5 +1,5 @@
 # Pesquisa-profissional-de-TI
-Tratamento da base de dados da Pesquisa Contínua sobre a Profissão de TI no Brasil. Neste repositório encontra-se a versão em pdf e o link de todos os documentos geradores durante a duração do estágio.
+Tratamento da base de dados da Pesquisa Contínua sobre a Profissão de TI no Brasil. Neste repositório encontra-se a versão em pdf e o link de todos os documentos gerados durante a duração do estágio.
 
 Notebook com os códigos realizados do projeto: https://colab.research.google.com/drive/1Py8MoN74SZ46PJYFGolpKuZukWMqlZQv?usp=sharing
 
